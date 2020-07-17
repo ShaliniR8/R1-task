@@ -21,7 +21,7 @@
         'NewsClassification.ipynb'
         
     Result:
-        Result is based on accuracy score. Classification report is produced to summarize the result and an arbitrary prediction is shown.
+        Result is based on accuracy score. Classification report is produced to summarize the result and an arbitrary prediction is shown in the same ipynb file.
        
 
 
